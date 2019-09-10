@@ -9,8 +9,6 @@ public class Anagram {
         int[] b = new int[26];
         for (int i = 0; i < s.length(); i++) {
             a[s.charAt(i) - 97]++;
-        }
-        for (int i = 0; i < s.length(); i++) {
             b[t.charAt(i) - 97]++;
         }
         return Arrays.equals(a, b);
