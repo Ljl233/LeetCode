@@ -4,14 +4,12 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class PancakeSort {
-    int max;
 
     public List<Integer> pancakeSort(int[] A) {
         List<Integer> list = new ArrayList<>();
-        max = A.length;
         int index = 0;
         for (int i = 0; i < A.length; i++) {
-            index = findMax(A, i);
+            index = findMax(A, A.length-i);
             if (index != A.length - i - 1) {
                 if (index != 0) {
                     reverse(A, index);
@@ -39,8 +37,7 @@ public class PancakeSort {
     private int findMax(int[] a, int cur) {
         int index = 0;
         for (int i = 0; i < a.length; i++) {
-            if (a[i] == max) {
-                max--;
+            if (a[i] == cur) {
                 index = i;
                 break;
             }
