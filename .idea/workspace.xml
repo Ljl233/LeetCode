@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="057d6417-b981-49f2-952d-6b62f159b074" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/arraylist/RemoveDuplicates.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/arraylist/RemoveDuplicates.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arraylist/Rotate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arraylist/Rotate.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -40,7 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (1)">
+  <component name="RunManager" selected="Application.Test (2)">
     <configuration name="CatTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="animal.CatTest" />
       <module name="LeetCode" />
@@ -67,6 +70,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaceTest.Test" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interfaceTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NQueen.Test" />
       <module name="LeetCode" />
@@ -82,6 +98,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.CatTest" />
         <item itemvalue="Application.Test" />
@@ -169,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568361853681</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="node">
+      <created>1568637966054</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1568637966054</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -196,7 +220,8 @@
     <MESSAGE value="RemoveDuplicates_polish" />
     <MESSAGE value="RemoveDuplicates_polish_again" />
     <MESSAGE value="MaxProfit" />
-    <option name="LAST_COMMIT_MESSAGE" value="MaxProfit" />
+    <MESSAGE value="node" />
+    <option name="LAST_COMMIT_MESSAGE" value="node" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

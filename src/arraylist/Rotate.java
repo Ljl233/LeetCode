@@ -7,6 +7,6 @@ public class Rotate {
     }
 
     int[] getInt(int k, int[] nums) {
-
+return null;
     }
 }
