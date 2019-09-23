@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="057d6417-b981-49f2-952d-6b62f159b074" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/arraylist/RemoveDuplicates.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/arraylist/RemoveDuplicates.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arraylist/Rotate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arraylist/Rotate.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -193,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568637966054</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="9.21">
+      <created>1569071092300</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1569071092301</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -221,7 +226,8 @@
     <MESSAGE value="RemoveDuplicates_polish_again" />
     <MESSAGE value="MaxProfit" />
     <MESSAGE value="node" />
-    <option name="LAST_COMMIT_MESSAGE" value="node" />
+    <MESSAGE value="9.21" />
+    <option name="LAST_COMMIT_MESSAGE" value="9.21" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
