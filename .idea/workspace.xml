@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="057d6417-b981-49f2-952d-6b62f159b074" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/node/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/node/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/node/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/node/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/node/NodeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/node/NodeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/node/Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/node/Palindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/node/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node/NodeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/node/NodeTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -228,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569373711853</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="9.25">
+      <created>1569378468221</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1569378468221</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -259,7 +270,8 @@
     <MESSAGE value="9.21" />
     <MESSAGE value="9.23" />
     <MESSAGE value="9.24" />
-    <option name="LAST_COMMIT_MESSAGE" value="9.24" />
+    <MESSAGE value="9.25" />
+    <option name="LAST_COMMIT_MESSAGE" value="9.25" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
