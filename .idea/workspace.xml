@@ -42,13 +42,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LinkListTest">
-    <configuration name="CatTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="animal.CatTest" />
+  <component name="RunManager" selected="Application.MathTest">
+    <configuration name="LinkListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="node.LinkListTest" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="animal.*" />
+          <option name="PATTERN" value="node.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,12 +56,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="node.LinkListTest" />
+    <configuration name="MathTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="math.MathTest" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="node.*" />
+          <option name="PATTERN" value="math.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MathTest" />
         <item itemvalue="Application.LinkListTest" />
         <item itemvalue="Application.NodeTest" />
         <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.CatTest" />
       </list>
     </recent_temporary>
   </component>
@@ -241,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569382630160</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="9.26">
+      <created>1569498282907</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1569498282908</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -273,7 +280,8 @@
     <MESSAGE value="9.23" />
     <MESSAGE value="9.24" />
     <MESSAGE value="9.25" />
-    <option name="LAST_COMMIT_MESSAGE" value="9.25" />
+    <MESSAGE value="9.26" />
+    <option name="LAST_COMMIT_MESSAGE" value="9.26" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -324,19 +332,14 @@
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/node/LinkListTest.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="12" />
+          <url>file://$PROJECT_DIR$/src/math/MathTest.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/node/LinkListTest.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/node/LinkListTest.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="14" />
+          <url>file://$PROJECT_DIR$/src/math/CountPrimes.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
