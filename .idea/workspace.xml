@@ -5,7 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode/math/CountPrimes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/math/CountPrimes.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode/math/MathTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/math/MathTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/CountPrimes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/CountPrimes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/math/MathTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/MathTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,7 +31,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -259,7 +258,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569844169617</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="9.30">
+      <created>1569848952228</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1569848952228</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -344,24 +350,9 @@
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/math/MathTest.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/math/CountPrimes.java</url>
-          <line>104</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/math/CountPrimes.java</url>
-          <line>105</line>
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/math/CountPrimes.java</url>
-          <line>111</line>
-          <option name="timeStamp" value="25" />
+          <url>file://$PROJECT_DIR$/src/math/PowerOfThree.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
