@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="057d6417-b981-49f2-952d-6b62f159b074" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/math/CountPrimes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/math/CountPrimes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/math/MathTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/math/MathTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/MathTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/MathTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +28,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -265,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569848952228</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="10.2">
+      <created>1570003830362</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1570003830362</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -299,7 +303,8 @@
     <MESSAGE value="9.25" />
     <MESSAGE value="9.26" />
     <MESSAGE value="9.30" />
-    <option name="LAST_COMMIT_MESSAGE" value="9.30" />
+    <MESSAGE value="10.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="10.2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -348,11 +353,6 @@
           <url>file://$PROJECT_DIR$/src/node/MyLinkList.java</url>
           <line>118</line>
           <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/math/PowerOfThree.java</url>
-          <line>6</line>
-          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
