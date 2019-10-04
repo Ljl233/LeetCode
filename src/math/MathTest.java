@@ -10,8 +10,9 @@ public class MathTest {
 ////        boolean[] a=new boolean[2];
 ////        System.out.print(a[1]);
 
-        PowerOfThree power = new PowerOfThree();
-        System.out.println(power.isPowerOfThree(0));
-
+//        PowerOfThree power = new PowerOfThree();
+        RomanToInt roman = new RomanToInt();
+        int ans = roman.romanToInt("MCMXCIV");
+        System.out.println(ans);
     }
 }
