@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="057d6417-b981-49f2-952d-6b62f159b074" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/math/MathTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/math/MathTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/math/PowerOfThree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/math/PowerOfThree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/MathTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/MathTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arraylist/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arraylist/Test.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +29,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Java/JavaCode/JavaCode" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
@@ -45,7 +44,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MathTest">
+  <component name="RunManager" selected="Application.Test (1)">
     <configuration name="LinkListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="node.LinkListTest" />
       <module name="LeetCode" />
@@ -113,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.MathTest" />
         <item itemvalue="Application.LinkListTest" />
         <item itemvalue="Application.NodeTest" />
         <item itemvalue="Application.Test (2)" />
-        <item itemvalue="Application.Test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -279,7 +278,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570075414219</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="10.4">
+      <created>1570157480045</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1570157480045</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -315,7 +321,8 @@
     <MESSAGE value="9.30" />
     <MESSAGE value="10.2" />
     <MESSAGE value="10.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="10.3" />
+    <MESSAGE value="10.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="10.4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
