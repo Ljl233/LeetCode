@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="057d6417-b981-49f2-952d-6b62f159b074" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/math/MathTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/math/MathTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/string/LongestPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/string/LongestPalindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/MathTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/MathTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +46,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringTest">
+  <component name="RunManager" selected="Application.MathTest">
     <configuration name="LinkListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="node.LinkListTest" />
       <module name="LeetCode" />
@@ -111,9 +114,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MathTest" />
         <item itemvalue="Application.StringTest" />
         <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.MathTest" />
         <item itemvalue="Application.LinkListTest" />
         <item itemvalue="Application.NodeTest" />
       </list>
@@ -312,7 +315,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570535439884</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="10.12 9' 回文数">
+      <created>1570846551998</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1570846551998</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -353,7 +363,8 @@
     <MESSAGE value="3" />
     <MESSAGE value="5" />
     <MESSAGE value="622" />
-    <option name="LAST_COMMIT_MESSAGE" value="622" />
+    <MESSAGE value="10.12 9' 回文数" />
+    <option name="LAST_COMMIT_MESSAGE" value="10.12 9' 回文数" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -402,6 +413,11 @@
           <url>file://$PROJECT_DIR$/src/node/MyLinkList.java</url>
           <line>118</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/math/NumberSquare.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
