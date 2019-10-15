@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="057d6417-b981-49f2-952d-6b62f159b074" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/arraylist/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/arraylist/Test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode/math/MathTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/math/MathTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/string/LongestPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/string/LongestPalindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arraylist/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arraylist/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/math/MathTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/MathTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,7 +47,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MathTest">
+  <component name="RunManager" selected="Application.Test (1)">
     <configuration name="LinkListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="node.LinkListTest" />
       <module name="LeetCode" />
@@ -114,9 +115,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.MathTest" />
         <item itemvalue="Application.StringTest" />
-        <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.LinkListTest" />
         <item itemvalue="Application.NodeTest" />
       </list>
@@ -322,7 +323,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570846551998</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="10.14 27'">
+      <created>1571059128828</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1571059128828</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -339,7 +347,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="sort" />
     <MESSAGE value="AllCellsDistOrder" />
     <MESSAGE value="Anagram" />
     <MESSAGE value="Anagram-" />
@@ -364,7 +371,8 @@
     <MESSAGE value="5" />
     <MESSAGE value="622" />
     <MESSAGE value="10.12 9' 回文数" />
-    <option name="LAST_COMMIT_MESSAGE" value="10.12 9' 回文数" />
+    <MESSAGE value="10.14 27'" />
+    <option name="LAST_COMMIT_MESSAGE" value="10.14 27'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

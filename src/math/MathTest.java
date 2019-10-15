@@ -16,8 +16,8 @@ public class MathTest {
 //        System.out.println(ans);
 
         //numberSquare test
-        NumberSquare numberSquare = new NumberSquare();
-        int a = numberSquare.numSquare(8);
-        System.out.println(a);
+//        NumberSquare numberSquare = new NumberSquare();
+//        int a = numberSquare.numSquare(8);
+//        System.out.println(a);
     }
 }

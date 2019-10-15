@@ -8,8 +8,11 @@ public class Test {
 //        for (int i = 0; i < a.length; i++) {
 //            System.out.println(a[i]);
 //        }
-        TwoSum twoSum = new TwoSum();
-        twoSum.twoSum(new int[]{2, 3, 4}, 6);
+//        TwoSum twoSum = new TwoSum();
+//        twoSum.twoSum(new int[]{2, 3, 4}, 6);
+
+        ReverseInt reverseInt = new ReverseInt();
+        System.out.println(reverseInt.reverse(123));
 
     }
 }
