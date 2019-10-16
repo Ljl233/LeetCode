@@ -13,6 +13,7 @@ public class Test {
 
         ReverseInt reverseInt = new ReverseInt();
         System.out.println(reverseInt.reverse(123));
+        System.out.println(args.length);
 
     }
 }
