@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="057d6417-b981-49f2-952d-6b62f159b074" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/arraylist/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/arraylist/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arraylist/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arraylist/Test.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -335,7 +333,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571140393187</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="10.16 42'">
+      <created>1571234332962</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1571234332963</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -352,7 +357,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Anagram" />
     <MESSAGE value="Anagram-" />
     <MESSAGE value="PancakeSort" />
     <MESSAGE value="PancakeSort_polish" />
@@ -377,7 +381,8 @@
     <MESSAGE value="10.12 9' 回文数" />
     <MESSAGE value="10.14 27'" />
     <MESSAGE value="10.15 7'" />
-    <option name="LAST_COMMIT_MESSAGE" value="10.15 7'" />
+    <MESSAGE value="10.16 42'" />
+    <option name="LAST_COMMIT_MESSAGE" value="10.16 42'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
