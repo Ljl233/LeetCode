@@ -43,7 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (1)">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="LinkListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="node.LinkListTest" />
       <module name="LeetCode" />
@@ -63,19 +63,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="math.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NodeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="node.NodeTest" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="node.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,13 +96,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="binarySearch.Test" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="binarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.MathTest" />
         <item itemvalue="Application.StringTest" />
         <item itemvalue="Application.LinkListTest" />
-        <item itemvalue="Application.NodeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -340,7 +340,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571234332963</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="10.18 8'">
+      <created>1571410983093</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1571410983094</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -357,7 +364,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Anagram-" />
     <MESSAGE value="PancakeSort" />
     <MESSAGE value="PancakeSort_polish" />
     <MESSAGE value="RemoveDuplicates" />
@@ -382,7 +388,8 @@
     <MESSAGE value="10.14 27'" />
     <MESSAGE value="10.15 7'" />
     <MESSAGE value="10.16 42'" />
-    <option name="LAST_COMMIT_MESSAGE" value="10.16 42'" />
+    <MESSAGE value="10.18 8'" />
+    <option name="LAST_COMMIT_MESSAGE" value="10.18 8'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -436,6 +443,26 @@
           <url>file://$PROJECT_DIR$/src/math/NumberSquare.java</url>
           <line>25</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/binarySearch/SearchInsert.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/binarySearch/SearchInsert.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/binarySearch/SearchInsert.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/binarySearch/SearchInsert.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
