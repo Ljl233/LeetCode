@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="057d6417-b981-49f2-952d-6b62f159b074" name="Default Changelist" comment="">
+    <list default="true" id="057d6417-b981-49f2-952d-6b62f159b074" name="Default Changelist" comment="10.21 167'">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode/binarySearch/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/binarySearch/Test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/binarySearch/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binarySearch/Test.java" afterDir="false" />
@@ -32,6 +32,11 @@
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/Java/JavaCode/JavaCode" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle " />
+    </option>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -363,7 +368,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571663898103</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="10.21 167'">
+      <created>1571666238168</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1571666238168</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -380,7 +392,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="RemoveDuplicates" />
     <MESSAGE value="RemoveDuplicates_polish" />
     <MESSAGE value="RemoveDuplicates_polish_again" />
     <MESSAGE value="MaxProfit" />
@@ -405,7 +416,8 @@
     <MESSAGE value="10.18 8'" />
     <MESSAGE value="10.19 35'" />
     <MESSAGE value="10.21 69'" />
-    <option name="LAST_COMMIT_MESSAGE" value="10.21 69'" />
+    <MESSAGE value="10.21 167'" />
+    <option name="LAST_COMMIT_MESSAGE" value="10.21 167'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -474,11 +486,6 @@
           <url>file://$PROJECT_DIR$/src/binarySearch/MySqrt.java</url>
           <line>6</line>
           <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/binarySearch/TwoSum.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
