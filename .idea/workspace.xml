@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="057d6417-b981-49f2-952d-6b62f159b074" name="Default Changelist" comment="" />
+    <list default="true" id="057d6417-b981-49f2-952d-6b62f159b074" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/binarySearch/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/binarySearch/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/binarySearch/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binarySearch/Test.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -378,7 +382,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571735299312</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="10.22 852'">
+      <created>1571735761499</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1571735761499</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -395,7 +406,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="RemoveDuplicates_polish_again" />
     <MESSAGE value="MaxProfit" />
     <MESSAGE value="node" />
     <MESSAGE value="9.21" />
@@ -420,7 +430,8 @@
     <MESSAGE value="10.21 69'" />
     <MESSAGE value="10.21 167'" />
     <MESSAGE value="10.22 704'" />
-    <option name="LAST_COMMIT_MESSAGE" value="10.22 704'" />
+    <MESSAGE value="10.22 852'" />
+    <option name="LAST_COMMIT_MESSAGE" value="10.22 852'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -489,6 +500,41 @@
           <url>file://$PROJECT_DIR$/src/binarySearch/MySqrt.java</url>
           <line>6</line>
           <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/binarySearch/Test.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/binarySearch/Intersect.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/binarySearch/Intersect.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/binarySearch/Intersect.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/binarySearch/Intersect.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/binarySearch/Intersect.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/binarySearch/Intersect.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
