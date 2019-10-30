@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="057d6417-b981-49f2-952d-6b62f159b074" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/binarySearch/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binarySearch/Test.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +29,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Java/JavaCode/JavaCode" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Java/JavaCode" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -397,7 +396,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571839009088</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="10.24 287'">
+      <created>1571931945187</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1571931945187</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -414,7 +420,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="node" />
     <MESSAGE value="9.21" />
     <MESSAGE value="9.23" />
     <MESSAGE value="9.24" />
@@ -439,7 +444,8 @@
     <MESSAGE value="10.22 704'" />
     <MESSAGE value="10.22 852'" />
     <MESSAGE value="10.23 350'" />
-    <option name="LAST_COMMIT_MESSAGE" value="10.23 350'" />
+    <MESSAGE value="10.24 287'" />
+    <option name="LAST_COMMIT_MESSAGE" value="10.24 287'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
