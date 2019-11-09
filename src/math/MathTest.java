@@ -19,5 +19,13 @@ public class MathTest {
 //        NumberSquare numberSquare = new NumberSquare();
 //        int a = numberSquare.numSquare(8);
 //        System.out.println(a);
+
+        int[][] test = {
+                {1, 2, 3, 4},
+                {1, 2, 3, 4},
+                {1, 2, 3, 4}
+        };
+        System.out.println("raw=" + test.length + "  coloumns=" + test[0].length);
+
     }
 }
