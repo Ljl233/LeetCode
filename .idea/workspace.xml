@@ -537,6 +537,11 @@
           <line>20</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///usr/lib/jvm/jdk-12.0.2/lib/src.zip!/java.base/java/util/HashMap.java</url>
+          <line>876</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
