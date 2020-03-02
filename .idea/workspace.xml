@@ -70,26 +70,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CheckPossibility.test">
+  <component name="RunManager" selected="JUnit.ReverseList.test">
     <configuration name="ExceptionThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="greed.ExceptionThread" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="greed.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MathTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.MathTest" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="math.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,6 +116,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReverseList.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="athority.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="athority" />
+      <option name="MAIN_CLASS_NAME" value="athority.ReverseList" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Son.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
@@ -147,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ReverseList.test" />
         <item itemvalue="JUnit.CheckPossibility.test" />
         <item itemvalue="JUnit.Son.test" />
         <item itemvalue="Application.ExceptionThread" />
         <item itemvalue="JUnit.CanPlaceFlowers.test" />
-        <item itemvalue="Application.MathTest" />
       </list>
     </recent_temporary>
   </component>
@@ -633,6 +636,11 @@
           <url>file://$PROJECT_DIR$/src/greed/LemonadeChange.java</url>
           <line>9</line>
           <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/athority/ReverseList.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="36" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
