@@ -506,6 +506,12 @@
     <MESSAGE value="1.14 1029'" />
     <option name="LAST_COMMIT_MESSAGE" value="1.14 1029'" />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="616" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1583328892394">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="616" y="381" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1583328892394" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
