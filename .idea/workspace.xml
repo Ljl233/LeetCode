@@ -62,23 +62,7 @@
       <command value="gradle " />
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DistributeCandies.test">
-    <configuration name="CheckPossibility.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="greed.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="greed" />
-      <option name="MAIN_CLASS_NAME" value="greed.CheckPossibility" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.MaxQueue.test2">
     <configuration name="DistributeCandies.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
@@ -111,6 +95,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MaxQueue.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="athority.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="athority" />
+      <option name="MAIN_CLASS_NAME" value="athority.MaxQueue" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxQueue.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="athority.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="athority" />
+      <option name="MAIN_CLASS_NAME" value="athority.MaxQueue" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReverseList.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
@@ -127,29 +143,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Son.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="greed.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="greed" />
-      <option name="MAIN_CLASS_NAME" value="greed.Son" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MaxQueue.test2" />
+        <item itemvalue="JUnit.MaxQueue.test" />
         <item itemvalue="JUnit.DistributeCandies.test" />
         <item itemvalue="JUnit.FindContinuousSequence.test" />
         <item itemvalue="JUnit.ReverseList.test" />
-        <item itemvalue="JUnit.CheckPossibility.test" />
-        <item itemvalue="JUnit.Son.test" />
       </list>
     </recent_temporary>
   </component>
@@ -510,185 +510,54 @@
     <option name="LAST_COMMIT_MESSAGE" value="1.14 1029'" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1874" height="313" key="GridCell.Tab.0.bottom" timestamp="1583507566964">
+    <state width="1874" height="414" key="GridCell.Tab.0.bottom" timestamp="1583569685235">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="313" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1583507566964" />
-    <state width="1874" height="313" key="GridCell.Tab.0.center" timestamp="1583507566964">
+    <state width="1874" height="414" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1583569685235" />
+    <state width="1874" height="414" key="GridCell.Tab.0.center" timestamp="1583569685232">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="313" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1583507566964" />
-    <state width="1874" height="313" key="GridCell.Tab.0.left" timestamp="1583507566963">
+    <state width="1874" height="414" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1583569685232" />
+    <state width="1874" height="414" key="GridCell.Tab.0.left" timestamp="1583569685231">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="313" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1583507566963" />
-    <state width="1874" height="313" key="GridCell.Tab.0.right" timestamp="1583507566964">
+    <state width="1874" height="414" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1583569685231" />
+    <state width="1874" height="414" key="GridCell.Tab.0.right" timestamp="1583569685234">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="313" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1583507566964" />
-    <state width="1874" height="313" key="GridCell.Tab.1.bottom" timestamp="1583507567065">
+    <state width="1874" height="414" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1583569685234" />
+    <state width="1874" height="414" key="GridCell.Tab.1.bottom" timestamp="1583569685241">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="313" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1583507567065" />
-    <state width="1874" height="313" key="GridCell.Tab.1.center" timestamp="1583507567064">
+    <state width="1874" height="414" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1583569685241" />
+    <state width="1874" height="414" key="GridCell.Tab.1.center" timestamp="1583569685238">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="313" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1583507567064" />
-    <state width="1874" height="313" key="GridCell.Tab.1.left" timestamp="1583507567063">
+    <state width="1874" height="414" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1583569685238" />
+    <state width="1874" height="414" key="GridCell.Tab.1.left" timestamp="1583569685237">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="313" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1583507567063" />
-    <state width="1874" height="313" key="GridCell.Tab.1.right" timestamp="1583507567064">
+    <state width="1874" height="414" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1583569685237" />
+    <state width="1874" height="414" key="GridCell.Tab.1.right" timestamp="1583569685239">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="313" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1583507567064" />
-    <state x="616" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1583503014939">
+    <state width="1874" height="414" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1583569685239" />
+    <state x="616" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1583564399102">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="616" y="381" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1583503014939" />
+    <state x="616" y="381" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1583564399102" />
+    <state x="480" y="241" width="950" height="620" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583567827145">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="480" y="241" width="950" height="620" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.27.1920.1053@0.27.1920.1053" timestamp="1583567827145" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/arraylist/RemoveDuplicates.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/arraylist/RemoveDuplicates.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/node/MyLinkList.java</url>
-          <line>47</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/node/MyLinkList.java</url>
-          <line>45</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/node/MyLinkList.java</url>
-          <line>52</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/node/MyLinkList.java</url>
-          <line>35</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/node/MyLinkList.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/node/MyLinkList.java</url>
-          <line>113</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/node/MyLinkList.java</url>
-          <line>118</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/math/NumberSquare.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/binarySearch/MySqrt.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/binarySearch/MySqrt.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/binarySearch/MySqrt.java</url>
-          <line>6</line>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/binarySearch/Test.java</url>
-          <line>6</line>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/binarySearch/Intersect.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/binarySearch/Intersect.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar:///usr/lib/jvm/jdk-12.0.2/lib/src.zip!/java.base/java/util/HashMap.java</url>
-          <line>876</line>
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/hash/Test.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/hash/ThreeSum.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/hash/ThreeSum.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="28" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/hash/ContainDuplicate.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="29" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/greed/LastStoneWeight.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="32" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/greed/Test.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="33" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/greed/LemonadeChange.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="34" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/athority/ReverseList.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="36" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/athority/DistributeCandies.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="39" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/athority/DistributeCandies.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="40" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/athority/FindContinuousSequence.java</url>
-          <line>37</line>
-          <option name="timeStamp" value="41" />
+          <url>file://$PROJECT_DIR$/src/athority/MaxQueue.java</url>
+          <line>114</line>
+          <option name="timeStamp" value="49" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
