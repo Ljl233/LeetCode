@@ -47,7 +47,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -510,56 +510,49 @@
     <option name="LAST_COMMIT_MESSAGE" value="1.14 1029'" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1874" height="414" key="GridCell.Tab.0.bottom" timestamp="1583569685235">
+    <state width="1874" height="334" key="GridCell.Tab.0.bottom" timestamp="1583569775712">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="414" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1583569685235" />
-    <state width="1874" height="414" key="GridCell.Tab.0.center" timestamp="1583569685232">
+    <state width="1874" height="334" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1583569775712" />
+    <state width="1874" height="334" key="GridCell.Tab.0.center" timestamp="1583569775710">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="414" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1583569685232" />
-    <state width="1874" height="414" key="GridCell.Tab.0.left" timestamp="1583569685231">
+    <state width="1874" height="334" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1583569775709" />
+    <state width="1874" height="334" key="GridCell.Tab.0.left" timestamp="1583569775708">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="414" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1583569685231" />
-    <state width="1874" height="414" key="GridCell.Tab.0.right" timestamp="1583569685234">
+    <state width="1874" height="334" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1583569775708" />
+    <state width="1874" height="334" key="GridCell.Tab.0.right" timestamp="1583569775711">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="414" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1583569685234" />
-    <state width="1874" height="414" key="GridCell.Tab.1.bottom" timestamp="1583569685241">
+    <state width="1874" height="334" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1583569775711" />
+    <state width="1874" height="414" key="GridCell.Tab.1.bottom" timestamp="1583569775698">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="414" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1583569685241" />
-    <state width="1874" height="414" key="GridCell.Tab.1.center" timestamp="1583569685238">
+    <state width="1874" height="414" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1583569775698" />
+    <state width="1874" height="414" key="GridCell.Tab.1.center" timestamp="1583569775696">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="414" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1583569685238" />
-    <state width="1874" height="414" key="GridCell.Tab.1.left" timestamp="1583569685237">
+    <state width="1874" height="414" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1583569775696" />
+    <state width="1874" height="414" key="GridCell.Tab.1.left" timestamp="1583569775695">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="414" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1583569685237" />
-    <state width="1874" height="414" key="GridCell.Tab.1.right" timestamp="1583569685239">
+    <state width="1874" height="414" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1583569775695" />
+    <state width="1874" height="414" key="GridCell.Tab.1.right" timestamp="1583569775697">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="414" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1583569685239" />
-    <state x="616" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1583564399102">
+    <state width="1874" height="414" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1583569775697" />
+    <state x="449" y="188" key="SettingsEditor" timestamp="1583672134303">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="616" y="381" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1583564399102" />
+    <state x="449" y="188" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1583672134303" />
+    <state x="616" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1583671904717">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="616" y="381" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1583671904717" />
     <state x="480" y="241" width="950" height="620" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583567827145">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="480" y="241" width="950" height="620" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.27.1920.1053@0.27.1920.1053" timestamp="1583567827145" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/athority/MaxQueue.java</url>
-          <line>114</line>
-          <option name="timeStamp" value="49" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
