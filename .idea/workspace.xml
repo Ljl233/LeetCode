@@ -546,13 +546,17 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="449" y="188" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1583672134303" />
-    <state x="616" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1583671904717">
+    <state x="616" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1583814719754">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="616" y="381" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1583671904717" />
+    <state x="616" y="381" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1583814719754" />
     <state x="480" y="241" width="950" height="620" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583567827145">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="480" y="241" width="950" height="620" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.27.1920.1053@0.27.1920.1053" timestamp="1583567827145" />
+    <state x="1203" y="152" width="1384" height="1009" maximized="true" key="dock-window-1" timestamp="1583819239638">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1203" y="152" width="1384" height="1009" maximized="true" key="dock-window-1/0.27.1920.1053@0.27.1920.1053" timestamp="1583819239638" />
   </component>
 </project>
