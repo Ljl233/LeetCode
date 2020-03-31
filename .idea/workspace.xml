@@ -62,7 +62,7 @@
       <command value="gradle " />
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RemoveOuterParentheses">
+  <component name="RunManager" selected="JUnit.IsValid.Test">
     <configuration name="CanMeasureWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="athority.CanMeasureWater" />
       <module name="LeetCode" />
@@ -76,33 +76,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxQueue.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IsValid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="athority.*" />
+          <option name="PATTERN" value="stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="athority" />
-      <option name="MAIN_CLASS_NAME" value="athority.MaxQueue" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="stack" />
+      <option name="MAIN_CLASS_NAME" value="stack.IsValid" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxQueue.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IsValid.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="athority.*" />
+          <option name="PATTERN" value="stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="athority" />
-      <option name="MAIN_CLASS_NAME" value="athority.MaxQueue" />
-      <option name="METHOD_NAME" value="test2" />
+      <option name="PACKAGE_NAME" value="stack" />
+      <option name="MAIN_CLASS_NAME" value="stack.IsValid" />
+      <option name="METHOD_NAME" value="Test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -141,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.IsValid.Test" />
+        <item itemvalue="JUnit.IsValid" />
         <item itemvalue="JUnit.RemoveOuterParentheses" />
         <item itemvalue="JUnit.RemoveOuterParentheses.test" />
         <item itemvalue="Application.CanMeasureWater" />
-        <item itemvalue="JUnit.MaxQueue.test2" />
-        <item itemvalue="JUnit.MaxQueue.test" />
       </list>
     </recent_temporary>
   </component>
@@ -506,38 +505,38 @@
     <option name="LAST_COMMIT_MESSAGE" value="1.14 1029'" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1874" height="334" key="GridCell.Tab.0.bottom" timestamp="1585623826007">
+    <state width="1874" height="334" key="GridCell.Tab.0.bottom" timestamp="1585626495551">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="334" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1585623826007" />
-    <state width="1874" height="334" key="GridCell.Tab.0.center" timestamp="1585623826004">
+    <state width="1874" height="334" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1585626495551" />
+    <state width="1874" height="334" key="GridCell.Tab.0.center" timestamp="1585626495548">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="334" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1585623826004" />
-    <state width="1874" height="334" key="GridCell.Tab.0.left" timestamp="1585623826002">
+    <state width="1874" height="334" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1585626495548" />
+    <state width="1874" height="334" key="GridCell.Tab.0.left" timestamp="1585626495547">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="334" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1585623826002" />
-    <state width="1874" height="334" key="GridCell.Tab.0.right" timestamp="1585623826005">
+    <state width="1874" height="334" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1585626495547" />
+    <state width="1874" height="334" key="GridCell.Tab.0.right" timestamp="1585626495549">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="334" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1585623826005" />
-    <state width="1874" height="414" key="GridCell.Tab.1.bottom" timestamp="1584801498617">
+    <state width="1874" height="334" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1585626495549" />
+    <state width="1874" height="414" key="GridCell.Tab.1.bottom" timestamp="1585626489293">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="414" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1584801498617" />
-    <state width="1874" height="414" key="GridCell.Tab.1.center" timestamp="1584801498617">
+    <state width="1874" height="414" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1585626489293" />
+    <state width="1874" height="414" key="GridCell.Tab.1.center" timestamp="1585626489292">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="414" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1584801498617" />
-    <state width="1874" height="414" key="GridCell.Tab.1.left" timestamp="1584801498616">
+    <state width="1874" height="414" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1585626489292" />
+    <state width="1874" height="414" key="GridCell.Tab.1.left" timestamp="1585626489292">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="414" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1584801498616" />
-    <state width="1874" height="414" key="GridCell.Tab.1.right" timestamp="1584801498617">
+    <state width="1874" height="414" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1585626489292" />
+    <state width="1874" height="414" key="GridCell.Tab.1.right" timestamp="1585626489293">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="414" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1584801498617" />
+    <state width="1874" height="414" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1585626489293" />
     <state x="449" y="188" key="SettingsEditor" timestamp="1583672134303">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
@@ -566,6 +565,16 @@
           <url>file://$PROJECT_DIR$/src/athority/CanMeasureWater.java</url>
           <line>33</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stack/IsValid.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stack/IsValid.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
