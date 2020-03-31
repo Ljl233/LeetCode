@@ -62,7 +62,7 @@
       <command value="gradle " />
     </option>
   </component>
-  <component name="RunManager" selected="Application.CanMeasureWater">
+  <component name="RunManager" selected="JUnit.RemoveOuterParentheses">
     <configuration name="CanMeasureWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="athority.CanMeasureWater" />
       <module name="LeetCode" />
@@ -72,38 +72,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DistributeCandies.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="athority.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="athority" />
-      <option name="MAIN_CLASS_NAME" value="athority.DistributeCandies" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindContinuousSequence.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="athority.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="athority" />
-      <option name="MAIN_CLASS_NAME" value="athority.FindContinuousSequence" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -140,13 +108,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RemoveOuterParentheses" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="stack" />
+      <option name="MAIN_CLASS_NAME" value="stack.RemoveOuterParentheses" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveOuterParentheses.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="stack" />
+      <option name="MAIN_CLASS_NAME" value="stack.RemoveOuterParentheses" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RemoveOuterParentheses" />
+        <item itemvalue="JUnit.RemoveOuterParentheses.test" />
         <item itemvalue="Application.CanMeasureWater" />
         <item itemvalue="JUnit.MaxQueue.test2" />
         <item itemvalue="JUnit.MaxQueue.test" />
-        <item itemvalue="JUnit.DistributeCandies.test" />
-        <item itemvalue="JUnit.FindContinuousSequence.test" />
       </list>
     </recent_temporary>
   </component>
@@ -507,46 +506,46 @@
     <option name="LAST_COMMIT_MESSAGE" value="1.14 1029'" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1874" height="414" key="GridCell.Tab.0.bottom" timestamp="1584780731613">
+    <state width="1874" height="334" key="GridCell.Tab.0.bottom" timestamp="1585623826007">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="414" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1584780731613" />
-    <state width="1874" height="414" key="GridCell.Tab.0.center" timestamp="1584780731612">
+    <state width="1874" height="334" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1585623826007" />
+    <state width="1874" height="334" key="GridCell.Tab.0.center" timestamp="1585623826004">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="414" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1584780731612" />
-    <state width="1874" height="414" key="GridCell.Tab.0.left" timestamp="1584780731612">
+    <state width="1874" height="334" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1585623826004" />
+    <state width="1874" height="334" key="GridCell.Tab.0.left" timestamp="1585623826002">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="414" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1584780731612" />
-    <state width="1874" height="414" key="GridCell.Tab.0.right" timestamp="1584780731612">
+    <state width="1874" height="334" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1585623826002" />
+    <state width="1874" height="334" key="GridCell.Tab.0.right" timestamp="1585623826005">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="414" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1584780731612" />
-    <state width="1874" height="414" key="GridCell.Tab.1.bottom" timestamp="1584780731614">
+    <state width="1874" height="334" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1585623826005" />
+    <state width="1874" height="414" key="GridCell.Tab.1.bottom" timestamp="1584801498617">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="414" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1584780731614" />
-    <state width="1874" height="414" key="GridCell.Tab.1.center" timestamp="1584780731613">
+    <state width="1874" height="414" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1584801498617" />
+    <state width="1874" height="414" key="GridCell.Tab.1.center" timestamp="1584801498617">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="414" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1584780731613" />
-    <state width="1874" height="414" key="GridCell.Tab.1.left" timestamp="1584780731613">
+    <state width="1874" height="414" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1584801498617" />
+    <state width="1874" height="414" key="GridCell.Tab.1.left" timestamp="1584801498616">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="414" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1584780731613" />
-    <state width="1874" height="414" key="GridCell.Tab.1.right" timestamp="1584780731614">
+    <state width="1874" height="414" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1584801498616" />
+    <state width="1874" height="414" key="GridCell.Tab.1.right" timestamp="1584801498617">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="414" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1584780731613" />
+    <state width="1874" height="414" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1584801498617" />
     <state x="449" y="188" key="SettingsEditor" timestamp="1583672134303">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="449" y="188" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1583672134303" />
-    <state x="616" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1584776251795">
+    <state x="616" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1585128653066">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="616" y="381" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1584776251795" />
+    <state x="616" y="381" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1585128653066" />
     <state x="480" y="241" width="950" height="620" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583567827145">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
