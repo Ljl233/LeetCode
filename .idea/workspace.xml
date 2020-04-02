@@ -62,16 +62,19 @@
       <command value="gradle " />
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.IsValid.Test">
-    <configuration name="CanMeasureWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="athority.CanMeasureWater" />
+  <component name="RunManager" selected="JUnit.GameOfLife.test">
+    <configuration name="GameOfLife.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="athority.*" />
+          <option name="PATTERN" value="arraylist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="arraylist" />
+      <option name="MAIN_CLASS_NAME" value="arraylist.GameOfLife" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -140,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.GameOfLife.test" />
         <item itemvalue="JUnit.IsValid.Test" />
         <item itemvalue="JUnit.IsValid" />
         <item itemvalue="JUnit.RemoveOuterParentheses" />
         <item itemvalue="JUnit.RemoveOuterParentheses.test" />
-        <item itemvalue="Application.CanMeasureWater" />
       </list>
     </recent_temporary>
   </component>
@@ -505,46 +508,46 @@
     <option name="LAST_COMMIT_MESSAGE" value="1.14 1029'" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1874" height="334" key="GridCell.Tab.0.bottom" timestamp="1585626495551">
+    <state width="1874" height="316" key="GridCell.Tab.0.bottom" timestamp="1585803289344">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="334" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1585626495551" />
-    <state width="1874" height="334" key="GridCell.Tab.0.center" timestamp="1585626495548">
+    <state width="1874" height="316" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1585803289344" />
+    <state width="1874" height="316" key="GridCell.Tab.0.center" timestamp="1585803289344">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="334" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1585626495548" />
-    <state width="1874" height="334" key="GridCell.Tab.0.left" timestamp="1585626495547">
+    <state width="1874" height="316" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1585803289344" />
+    <state width="1874" height="316" key="GridCell.Tab.0.left" timestamp="1585803289343">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="334" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1585626495547" />
-    <state width="1874" height="334" key="GridCell.Tab.0.right" timestamp="1585626495549">
+    <state width="1874" height="316" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1585803289343" />
+    <state width="1874" height="316" key="GridCell.Tab.0.right" timestamp="1585803289344">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="334" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1585626495549" />
-    <state width="1874" height="414" key="GridCell.Tab.1.bottom" timestamp="1585626489293">
+    <state width="1874" height="316" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1585803289344" />
+    <state width="1874" height="316" key="GridCell.Tab.1.bottom" timestamp="1585803289843">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="414" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1585626489293" />
-    <state width="1874" height="414" key="GridCell.Tab.1.center" timestamp="1585626489292">
+    <state width="1874" height="316" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1585803289843" />
+    <state width="1874" height="316" key="GridCell.Tab.1.center" timestamp="1585803289843">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="414" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1585626489292" />
-    <state width="1874" height="414" key="GridCell.Tab.1.left" timestamp="1585626489292">
+    <state width="1874" height="316" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1585803289843" />
+    <state width="1874" height="316" key="GridCell.Tab.1.left" timestamp="1585803289842">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="414" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1585626489292" />
-    <state width="1874" height="414" key="GridCell.Tab.1.right" timestamp="1585626489293">
+    <state width="1874" height="316" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1585803289842" />
+    <state width="1874" height="316" key="GridCell.Tab.1.right" timestamp="1585803289843">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="414" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1585626489293" />
+    <state width="1874" height="316" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1585803289843" />
     <state x="449" y="188" key="SettingsEditor" timestamp="1583672134303">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="449" y="188" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1583672134303" />
-    <state x="616" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1585128653066">
+    <state x="616" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1585797975272">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="616" y="381" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1585128653066" />
+    <state x="616" y="381" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1585797975272" />
     <state x="480" y="241" width="950" height="620" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583567827145">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
@@ -568,13 +571,28 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/stack/IsValid.java</url>
-          <line>70</line>
+          <line>71</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/stack/IsValid.java</url>
           <line>43</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arraylist/GameOfLife.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arraylist/GameOfLife.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arraylist/GameOfLife.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
