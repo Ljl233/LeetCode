@@ -62,7 +62,23 @@
       <command value="gradle " />
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.GameOfLife.test">
+  <component name="RunManager" selected="JUnit.CalPoints.test">
+    <configuration name="CalPoints.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="stack" />
+      <option name="MAIN_CLASS_NAME" value="stack.CalPoints" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GameOfLife.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
@@ -125,29 +141,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveOuterParentheses.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="stack" />
-      <option name="MAIN_CLASS_NAME" value="stack.RemoveOuterParentheses" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CalPoints.test" />
         <item itemvalue="JUnit.GameOfLife.test" />
         <item itemvalue="JUnit.IsValid.Test" />
         <item itemvalue="JUnit.IsValid" />
         <item itemvalue="JUnit.RemoveOuterParentheses" />
-        <item itemvalue="JUnit.RemoveOuterParentheses.test" />
       </list>
     </recent_temporary>
   </component>
@@ -508,38 +508,38 @@
     <option name="LAST_COMMIT_MESSAGE" value="1.14 1029'" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1874" height="316" key="GridCell.Tab.0.bottom" timestamp="1585803289344">
+    <state width="1874" height="334" key="GridCell.Tab.0.bottom" timestamp="1585806095089">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="316" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1585803289344" />
-    <state width="1874" height="316" key="GridCell.Tab.0.center" timestamp="1585803289344">
+    <state width="1874" height="334" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1585806095089" />
+    <state width="1874" height="334" key="GridCell.Tab.0.center" timestamp="1585806095088">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="316" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1585803289344" />
-    <state width="1874" height="316" key="GridCell.Tab.0.left" timestamp="1585803289343">
+    <state width="1874" height="334" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1585806095088" />
+    <state width="1874" height="334" key="GridCell.Tab.0.left" timestamp="1585806095088">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="316" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1585803289343" />
-    <state width="1874" height="316" key="GridCell.Tab.0.right" timestamp="1585803289344">
+    <state width="1874" height="334" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1585806095088" />
+    <state width="1874" height="334" key="GridCell.Tab.0.right" timestamp="1585806095088">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="316" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1585803289344" />
-    <state width="1874" height="316" key="GridCell.Tab.1.bottom" timestamp="1585803289843">
+    <state width="1874" height="334" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1585806095088" />
+    <state width="1874" height="316" key="GridCell.Tab.1.bottom" timestamp="1585803515687">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="316" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1585803289843" />
-    <state width="1874" height="316" key="GridCell.Tab.1.center" timestamp="1585803289843">
+    <state width="1874" height="316" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1585803515687" />
+    <state width="1874" height="316" key="GridCell.Tab.1.center" timestamp="1585803515686">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="316" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1585803289843" />
-    <state width="1874" height="316" key="GridCell.Tab.1.left" timestamp="1585803289842">
+    <state width="1874" height="316" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1585803515686" />
+    <state width="1874" height="316" key="GridCell.Tab.1.left" timestamp="1585803515686">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="316" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1585803289842" />
-    <state width="1874" height="316" key="GridCell.Tab.1.right" timestamp="1585803289843">
+    <state width="1874" height="316" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1585803515686" />
+    <state width="1874" height="316" key="GridCell.Tab.1.right" timestamp="1585803515687">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="316" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1585803289843" />
+    <state width="1874" height="316" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1585803515687" />
     <state x="449" y="188" key="SettingsEditor" timestamp="1583672134303">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
@@ -578,21 +578,6 @@
           <url>file://$PROJECT_DIR$/src/stack/IsValid.java</url>
           <line>43</line>
           <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/arraylist/GameOfLife.java</url>
-          <line>86</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/arraylist/GameOfLife.java</url>
-          <line>47</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/arraylist/GameOfLife.java</url>
-          <line>74</line>
-          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
