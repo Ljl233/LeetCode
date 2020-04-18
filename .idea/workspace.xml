@@ -64,7 +64,7 @@
       <command value="gradle " />
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CalPoints.test">
+  <component name="RunManager" selected="JUnit.TopKFrequent.test">
     <configuration name="CalPoints.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
@@ -128,28 +128,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveOuterParentheses" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TopKFrequent.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stack.*" />
+          <option name="PATTERN" value="heap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="stack" />
-      <option name="MAIN_CLASS_NAME" value="stack.RemoveOuterParentheses" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="heap" />
+      <option name="MAIN_CLASS_NAME" value="heap.TopKFrequent" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TopKFrequent.test" />
         <item itemvalue="JUnit.CalPoints.test" />
         <item itemvalue="JUnit.GameOfLife.test" />
         <item itemvalue="JUnit.IsValid.Test" />
         <item itemvalue="JUnit.IsValid" />
-        <item itemvalue="JUnit.RemoveOuterParentheses" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +166,9 @@
       <updated>1566985317933</updated>
       <workItem from="1585988071227" duration="736000" />
       <workItem from="1585988839760" duration="56000" />
-      <workItem from="1586847237514" duration="1600000" />
+      <workItem from="1586847237514" duration="1789000" />
+      <workItem from="1587198204943" duration="301000" />
+      <workItem from="1587198783706" duration="6044000" />
     </task>
     <task id="LOCAL-00001" summary="sort">
       <created>1567675551199</created>
@@ -520,46 +523,46 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="704" y="297" width="501" height="509" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1585988881009" />
-    <state width="1874" height="334" key="GridCell.Tab.0.bottom" timestamp="1585806406719">
+    <state width="1874" height="316" key="GridCell.Tab.0.bottom" timestamp="1587205366576">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="334" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1585806406719" />
-    <state width="1874" height="334" key="GridCell.Tab.0.center" timestamp="1585806406718">
+    <state width="1874" height="316" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1587205366576" />
+    <state width="1874" height="316" key="GridCell.Tab.0.center" timestamp="1587205366576">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="334" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1585806406718" />
-    <state width="1874" height="334" key="GridCell.Tab.0.left" timestamp="1585806406717">
+    <state width="1874" height="316" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1587205366576" />
+    <state width="1874" height="316" key="GridCell.Tab.0.left" timestamp="1587205366576">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="334" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1585806406717" />
-    <state width="1874" height="334" key="GridCell.Tab.0.right" timestamp="1585806406719">
+    <state width="1874" height="316" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1587205366576" />
+    <state width="1874" height="316" key="GridCell.Tab.0.right" timestamp="1587205366576">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="334" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1585806406718" />
-    <state width="1874" height="316" key="GridCell.Tab.1.bottom" timestamp="1585806406694">
+    <state width="1874" height="316" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1587205366576" />
+    <state width="1874" height="316" key="GridCell.Tab.1.bottom" timestamp="1587205366577">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="316" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1585806406694" />
-    <state width="1874" height="316" key="GridCell.Tab.1.center" timestamp="1585806406692">
+    <state width="1874" height="316" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1587205366577" />
+    <state width="1874" height="316" key="GridCell.Tab.1.center" timestamp="1587205366577">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="316" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1585806406692" />
-    <state width="1874" height="316" key="GridCell.Tab.1.left" timestamp="1585806406690">
+    <state width="1874" height="316" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1587205366577" />
+    <state width="1874" height="316" key="GridCell.Tab.1.left" timestamp="1587205366576">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="316" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1585806406690" />
-    <state width="1874" height="316" key="GridCell.Tab.1.right" timestamp="1585806406693">
+    <state width="1874" height="316" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1587205366576" />
+    <state width="1874" height="316" key="GridCell.Tab.1.right" timestamp="1587205366577">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="316" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1585806406693" />
+    <state width="1874" height="316" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1587205366577" />
     <state x="449" y="188" key="SettingsEditor" timestamp="1583672134303">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="449" y="188" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1583672134303" />
-    <state x="616" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1585988845802">
+    <state x="616" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1587199384723">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="616" y="381" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1585988845802" />
+    <state x="616" y="381" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1587199384723" />
     <state x="728" y="473" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585922755285">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
