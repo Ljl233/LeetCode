@@ -44,6 +44,7 @@
     <property name="create.test.in.the.same.root" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -174,7 +175,8 @@
       <workItem from="1591004814310" duration="211000" />
       <workItem from="1591005192162" duration="25000" />
       <workItem from="1591005579663" duration="34000" />
-      <workItem from="1591450940365" duration="2200000" />
+      <workItem from="1591450940365" duration="2334000" />
+      <workItem from="1591604030720" duration="1154000" />
     </task>
     <task id="LOCAL-00001" summary="sort">
       <created>1567675551199</created>
@@ -592,10 +594,10 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="1203" y="152" width="1384" height="1009" maximized="true" key="dock-window-1/0.27.1920.1053@0.27.1920.1053" timestamp="1583819239638" />
-    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1590995756102">
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1591605492926">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1590995756102" />
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1591605492926" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
