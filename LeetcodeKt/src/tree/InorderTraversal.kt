@@ -12,7 +12,7 @@ class InorderTraversal {
     fun traversal(root: TreeNode?, list: ArrayList<Int>) {
         if (root != null) {
             traversal(root.left, list)
-            list.add(root.value)
+            list.add(root.`val`)
             traversal(root.right, list)
         }
     }
@@ -31,13 +31,13 @@ class InorderTraversal {
             } else {
                 // 当前值添加到列表
                 if (curr != null) {
-                    list.add(curr.value)
+                    list.add(curr.`val`)
 
                     // 右子节点设为当前节点
                     curr = curr.right
                     while (curr == null && stack.isNotEmpty()) {
                         val node = stack.pop()
-                        list.add(node.value)
+                        list.add(node.`val`)
                         curr = node.right
                     }
                 }

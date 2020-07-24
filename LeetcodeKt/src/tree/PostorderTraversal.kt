@@ -24,7 +24,7 @@ class PostorderTraversal {
         if (root != null) {
             postorderTraversal(root.left, list)
             postorderTraversal(root.right, list)
-            list.add(root.value)
+            list.add(root.`val`)
         }
     }
 
@@ -45,7 +45,7 @@ class PostorderTraversal {
                         stack.push(cur)
                         cur = cur.right
                     } else {
-                        list.add(cur.value)
+                        list.add(cur.`val`)
                         cur = stack.pop()
                     }
                 }
@@ -60,7 +60,7 @@ class PostorderTraversal {
         stack.add(root ?: return output)
         while (stack.isNotEmpty()) {
             val node = stack.poll() ?: break
-            output.push(node.value)
+            output.push(node.`val`)
             node.left?.let(stack::push)
             node.right?.let(stack::push)
         }

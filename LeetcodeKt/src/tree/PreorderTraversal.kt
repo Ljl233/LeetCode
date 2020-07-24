@@ -16,7 +16,7 @@ class PreorderTraversal {
 
     fun preorderTraversal(root: TreeNode?, list: ArrayList<Int>) {
         if (root != null) {
-            list.add(root.value)
+            list.add(root.`val`)
             if (root.left != null)
                 preorderTraversal(root.left, list)
             if (root.right != null)
@@ -29,14 +29,14 @@ class PreorderTraversal {
         val list = ArrayList<Int>()
         val stack = Stack<TreeNode>()
         if (root != null) {
-            list.add(root.value)
+            list.add(root.`val`)
             if (root.right != null) stack.push(root.right)
 
             if (root.left != null) stack.push(root.left)
 
             while (!stack.empty()) {
                 val root = stack.pop()
-                list.add(root.value)
+                list.add(root.`val`)
                 if (root.right != null) stack.push(root.right)
                 if (root.left != null) stack.push(root.left)
             }
@@ -45,11 +45,11 @@ class PreorderTraversal {
     }
 
 }
-
-fun main() {
-    var ti = TreeNode(5)
-    var v = ti.value
-}
+//
+//fun main() {
+//    var ti = TreeNode(5)
+//    var v = ti.value
+//}
 
 /**
  * Example:
