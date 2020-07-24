@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="057d6417-b981-49f2-952d-6b62f159b074" name="Default Changelist" comment="" />
+    <list default="true" id="057d6417-b981-49f2-952d-6b62f159b074" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +18,7 @@
         <option value="Kotlin File" />
         <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -47,7 +51,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -175,7 +179,8 @@
       <workItem from="1591005579663" duration="34000" />
       <workItem from="1591450940365" duration="2334000" />
       <workItem from="1591604030720" duration="2068000" />
-      <workItem from="1592036012796" duration="756000" />
+      <workItem from="1592036012796" duration="1015000" />
+      <workItem from="1595475464447" duration="3159000" />
     </task>
     <task id="LOCAL-00001" summary="sort">
       <created>1567675551199</created>
@@ -537,10 +542,6 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="555" y="215" width="800" height="673" key="#Plugins/0.27.1920.1053@0.27.1920.1053" timestamp="1590995765089" />
-    <state x="704" y="297" width="501" height="509" key="FileChooserDialogImpl" timestamp="1585988881009">
-      <screen x="0" y="27" width="1920" height="1053" />
-    </state>
-    <state x="704" y="297" width="501" height="509" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1585988881009" />
     <state width="1874" height="334" key="GridCell.Tab.0.bottom" timestamp="1587476125172">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
@@ -573,26 +574,14 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state width="1874" height="316" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1587476125168" />
-    <state x="449" y="188" width="1024" height="841" key="SettingsEditor" timestamp="1590996222190">
+    <state x="449" y="188" width="1024" height="841" key="SettingsEditor" timestamp="1595476697437">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="449" y="188" width="1024" height="841" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1590996222190" />
+    <state x="449" y="188" width="1024" height="841" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1595476697437" />
     <state x="616" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1590995540853">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="616" y="381" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1590995540853" />
-    <state x="728" y="473" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585922755285">
-      <screen x="0" y="27" width="1920" height="1053" />
-    </state>
-    <state x="728" y="473" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1920.1053@0.27.1920.1053" timestamp="1585922755285" />
-    <state x="480" y="241" width="950" height="620" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583567827145">
-      <screen x="0" y="27" width="1920" height="1053" />
-    </state>
-    <state x="480" y="241" width="950" height="620" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.27.1920.1053@0.27.1920.1053" timestamp="1583567827145" />
-    <state x="1203" y="152" width="1384" height="1009" maximized="true" key="dock-window-1" timestamp="1583819239638">
-      <screen x="0" y="27" width="1920" height="1053" />
-    </state>
-    <state x="1203" y="152" width="1384" height="1009" maximized="true" key="dock-window-1/0.27.1920.1053@0.27.1920.1053" timestamp="1583819239638" />
     <state x="623" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1591605492926">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
