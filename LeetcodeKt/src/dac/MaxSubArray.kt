@@ -29,4 +29,27 @@ class MaxSubArray {
         }
         return max
     }
+
+    fun maxSubArrayDAC(nums: IntArray): Int {
+        return getInfo(nums, 0, nums.size - 1).mSum
+    }
+
+    class Status(var lSum: Int, var rSum: Int, var mSum: Int, var iSum: Int)
+
+    fun getInfo(nums: IntArray, l: Int, r: Int): Status {
+        if (l == r) return Status(nums[l], nums[l], nums[l], nums[l])
+
+        val lSub = getInfo(nums, l, (l + r) / 2)
+        val rSub = getInfo(nums, (l + r) / 2, r)
+        return pushUp(lSub, rSub)
+    }
+
+    private fun pushUp(l: MaxSubArray.Status, r: MaxSubArray.Status): MaxSubArray.Status {
+        val iSum = l.iSum + r.iSum
+        val lSum = Math.max(l.lSum, l.iSum + l.lSum)
+        val rSum = Math.max(r.rSum, r.iSum + l.rSum)
+        val mSum = Math.max(Math.max(l.mSum, r.mSum), l.rSum + r.lSum)
+
+        return Status(lSum, rSum, mSum, iSum)
+    }
 }
