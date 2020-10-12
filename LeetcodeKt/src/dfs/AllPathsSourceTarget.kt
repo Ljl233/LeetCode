@@ -74,3 +74,32 @@ class AllPathsSourceTarget {
     }
 
 }
+
+/*
+class Solution {
+
+    fun allPathsSourceTarget(graph: Array<IntArray>): List<List<Int>> {
+        return mutableListOf<List<Int>>().apply {
+            search(0, ArrayDeque(listOf(0)), this, graph)
+        }
+    }
+
+    private fun search(
+        node: Int,
+        path: ArrayDeque<Int>,
+        result: MutableList<List<Int>>,
+        graph: Array<IntArray>
+    ) {
+        if (node == graph.size - 1) {
+            result.add(path.toList())
+            return
+        }
+
+        graph[node].forEach { next ->
+            path.addLast(next)
+            search(next, path, result, graph)
+            path.removeLast()
+        }
+    }
+}
+ */
