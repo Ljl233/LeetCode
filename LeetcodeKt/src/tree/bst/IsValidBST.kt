@@ -44,13 +44,13 @@ class IsValidBST {
         }
     }
 
-    var pre = Long.MIN_VALUE
-    fun isValidBSTInOrder(root: TreeNode?): Boolean {
-        if (root == null) return true
-        val left = root.left
-        if (left != null && !isValidBSTInOrder(left)) return false
-        if (root.`val` <= pre) return false
-        pre = root.`val`.toLong()
-        return isValidBSTInOrder(root.right)
-    }
+//    var pre = Long.MIN_VALUE
+//    fun isValidBSTInOrder(root: TreeNode?): Boolean {
+//        if (root == null) return true
+//        val left = root.left
+//        if (left != null && !isValidBSTInOrder(left)) return false
+//        if (root.`val` <= pre) return false
+//        pre = root.`val`.toLong()
+//        return isValidBSTInOrder(root.right)
+//    }
 }
