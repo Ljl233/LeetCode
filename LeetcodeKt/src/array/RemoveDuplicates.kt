@@ -1,5 +1,8 @@
 package array
 
+/*
+	#26 删除排序数组中的重复项
+ */
 class RemoveDuplicates {
     fun removeDuplicates(nums: IntArray): Int {
         if (nums.isEmpty()) return 0
