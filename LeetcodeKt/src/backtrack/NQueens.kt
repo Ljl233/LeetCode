@@ -1,25 +1,78 @@
 package backtrack
 
-import java.util.*
+/*
+#51. N 皇后
+ */
+class NQueens {
+    fun solveNQueens(n: Int): List<List<String>> {
+        val res = mutableListOf<List<String>>()
+        val queens = IntArray(n)
+        val cols = HashSet<Int>()
+        val diagonals1 = HashSet<Int>()
+        val diagonals2 = HashSet<Int>()
+        backtrack(res, queens, 0, n, cols, diagonals1, diagonals2)
+        return res
+    }
+
+    private fun generate(queens: IntArray, n: Int): List<String> {
+        val ans = mutableListOf<String>()
+        queens.forEach { col ->
+            val chars = CharArray(n){'.'}
+            chars[col] = 'Q'
+            ans.add(String(chars))
+        }
+        return ans
+    }
+
+    private fun backtrack(
+            res: MutableList<List<String>>,
+            queens: IntArray,
+            row: Int,
+            n: Int,
+            cols: HashSet<Int>,
+            diagonals1: HashSet<Int>,
+            diagonals2: HashSet<Int>) {
+        if (row == n) {
+            res.add(generate(queens, n))
+            return
+        }
+
+        for (col in 0 until n) {
+            if (cols.contains(col)) continue
+
+            val diagonal1 = row + col
+            if (diagonals1.contains(diagonal1)) continue
+
+            val diagonal2 = row - col
+            if (diagonals2.contains(diagonal2)) continue
+
+            queens[row] = col
+            cols.add(col)
+            diagonals1.add(diagonal1)
+            diagonals2.add(diagonal2)
+            backtrack(res, queens, row + 1, n, cols, diagonals1, diagonals2)
+
+            queens[row] = -1
+            cols.remove(col)
+            diagonals1.remove(diagonal1)
+            diagonals2.remove(diagonal2)
+
+        }
+
+    }
+}
+
+/*
+
 
 class NQueens {
-    val res = mutableListOf<List<CharArray>>()
+    val res = mutableListOf<List<String>>()
     fun solveNQueens(n: Int): List<List<String>> {
         val board = List<CharArray>(n) {
             CharArray(n) { '.' }
         }
         backtrack(board, 0)
-        val ans = mutableListOf<List<String>>()
-        res.forEach {
-            val strings = mutableListOf<String>()
-            it.forEach { chars ->
-                run {
-                    strings.add(String(chars))
-                }
-            }
-            ans.add(strings)
-        }
-        return ans
+        return res
     }
 
     /**
@@ -29,7 +82,13 @@ class NQueens {
      */
     fun backtrack(board: List<CharArray>, row: Int) {
         if (row == board.size) {
-            res.add(board.toList())
+            val strings = mutableListOf<String>()
+            board.forEach { chars ->
+                run {
+                    strings.add(String(chars))
+                }
+            }
+            res.add(strings)
             return
         }
 
@@ -61,12 +120,14 @@ class NQueens {
         while (i >= 0 && j < board.size) {
             if (board[i][j] == 'Q') return false
             i--
-            j--
+            j++
         }
 
         return true
     }
 }
+
+ */
 
 fun main() {
     NQueens().solveNQueens(4)
