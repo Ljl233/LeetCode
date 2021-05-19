@@ -13,7 +13,8 @@
 | 4. 希尔排序  | :white_check_mark: | :white_check_mark:|      |  :white_check_mark:  |
 | 5. 归并排序  | :white_check_mark: | :white_check_mark: |      |  :white_check_mark:  |
 | 6. 快速排序  | :white_check_mark: |:white_check_mark:|      |    :white_check_mark: |
-| 7. 堆排序    | :white_check_mark: | :white_check_mark:  |      |  :white_check_mark: |
+| 7. 堆排序    | :white_check_mark: | :white_check_mark:|      |  :white_check_mark: |
 | 8. 计数排序 |:white_check_mark: | :white_check_mark:|      |    :white_check_mark: |
 | 9. 桶排序    | :white_check_mark: |:white_check_mark:|      |  :white_check_mark:  |
 | 10. 基数排序  | :white_check_mark: |:white_check_mark:|      |  :white_check_mark: |
+![十大经典排序算法](https://www.runoob.com/wp-content/uploads/2019/03/sort.png)
