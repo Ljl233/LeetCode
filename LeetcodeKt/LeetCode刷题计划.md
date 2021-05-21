@@ -18,3 +18,5 @@
 | 9. 桶排序    | :white_check_mark: |:white_check_mark:|      |  :white_check_mark:  |
 | 10. 基数排序  | :white_check_mark: |:white_check_mark:|      |  :white_check_mark: |
 ![十大经典排序算法](https://www.runoob.com/wp-content/uploads/2019/03/sort.png)
+
+2. random 随机（1/6）
